@@ -1,6 +1,0 @@
-Feira.java
- Feira
-one/digital/classes/FolhaPagamento.java
- one.digital.classes.FolhaPagamento
-one/digital/classes/Multiplicacao.java
- one.digital.classes.Multiplicacao
