@@ -1,0 +1,10 @@
+one/innovation/digital/QuantidadeNumerosPositivos.java
+ one.innovation.digital.QuantidadeNumerosPositivos
+one/innovation/digital/NumerosPares.java
+ one.innovation.digital.NumerosPares
+one/innovation/digital/AnaliseNum.java
+ one.innovation.digital.AnaliseNum
+one/innovation/digital/ContCedulas.java
+ one.innovation.digital.ContCedulas
+one/innovation/digital/Consumo.java
+ one.innovation.digital.Consumo
